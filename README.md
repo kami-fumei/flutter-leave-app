@@ -32,7 +32,7 @@ This project aims to streamline and automate the leave process for students in h
 ```bash
 # Clone the repo
 git clone https://github.com/username/simple-leave-app.git
-cd simple-leave-app/client
+cd flutter-leave-app/
 
 # Install Flutter dependencies
 flutter pub get
@@ -45,7 +45,7 @@ flutter pub get
 ### Node.js Server
 
 ```bash
-cd simple-leave-app/server
+cd flutter-leave-app/server
 
 # Install server dependencies
 npm install
